@@ -70,5 +70,5 @@
   
 
 <a href="https://github.com/ojosedirceu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojosedirceu&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojosedirceu&theme=dracula&show_icons=true"/>
 </a>
