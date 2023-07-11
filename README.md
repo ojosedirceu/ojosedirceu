@@ -67,9 +67,8 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-darkblue)
   ![Insomnia](https://img.shields.io/badge/insomnia-purple)
+  
 
-<br/>
-
-<a href="https://github.com/jdirceuhn33">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdirceuhn33&theme=dracula&show_icons=true" />
+<a href="https://github.com/ojosedirceu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ojosedirceu&theme=dracula&show_icons=true" />
 </a>
