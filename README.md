@@ -21,7 +21,7 @@
 - 📅 &nbsp; 28 anos
 - 📧 &nbsp; jdirceuhn33@gmail.com
 - 📍 &nbsp; Presidente Prudente - SP
-- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.fatecpp.edu.br">Faculdade de Tecnologia de Presidente Prudente (FATEC)</a>.a
+- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.fatecpp.edu.br">Faculdade de Tecnologia de Presidente Prudente (FATEC)</a>
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
