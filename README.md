@@ -22,10 +22,9 @@
 - 📍 &nbsp; Presidente Prudente - SP
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.fatecpp.edu.br">Faculdade de Tecnologia de Presidente Prudente (FATEC)</a>
 
+<p align="center"> &nbsp; </p>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
-
-<p align="center"> &nbsp; </p>
 
 **Linguagens de Programação e Bibliotecas**
 
