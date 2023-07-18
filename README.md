@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/josé-dirceu-4a5b4736/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-
-  <a href="https://whatsa.me/5518997350991/?t=Ol%C3%A1,%20José!%20Tudo%20bem%20com%20você?" alt="WhatsApp">
+  
+  <a href="https://wa.me/5518997350991?text=Ol%C3%A1,%20José!%20Tudo%20bem%20com%20você?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/ojosedirceu_" alt="Instagram">
