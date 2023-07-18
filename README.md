@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<p align="center"> &nbsp; </p>
 
 <h3> &nbsp; Sobre mim </h3>
 
