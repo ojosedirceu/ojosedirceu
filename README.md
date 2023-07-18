@@ -2,7 +2,6 @@
 <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg"/>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/josé-dirceu-4a5b4736/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
@@ -57,7 +56,7 @@
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/git-white)
+  ![Git](https://img.shields.io/badge/Git-white)
   ![GitHub](https://img.shields.io/badge/GitHub-black)
   ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-grey)
 
