@@ -14,19 +14,19 @@
 
 <p align="center"> &nbsp; </p>
 
-<h3> &nbsp; Sobre mim </h3>
+<h3> &nbsp; About me </h3>
 
 - 🧔🏾‍♂️ &nbsp; José Dirceu Hernandes Neto
 - 📅 &nbsp; 28 anos
 - 📧 &nbsp; jdirceuhn33@gmail.com
 - 📍 &nbsp; Presidente Prudente - SP
-- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.fatecpp.edu.br">Faculdade de Tecnologia de Presidente Prudente (FATEC)</a>
+- 🎓 &nbsp; Graduated in **Analysis and System Development** from <a href="https://www.fatecpp.edu.br">Faculdade de Tecnologia de Presidente Prudente (FATEC)</a>
 
 <p align="center"> &nbsp; </p>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Linguagens de Programação e Bibliotecas**
+**Program Languages and Libraries**
 
   ![NodeJS](https://img.shields.io/badge/NodeJS-green)
   ![NestJS](https://img.shields.io/badge/NestJS-red)
@@ -61,7 +61,7 @@
 
 <p align="center"> &nbsp; </p>
 
-**Ferramentas de Desenvolvimento**
+**Developer Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-darkblue)
   ![Insomnia](https://img.shields.io/badge/insomnia-purple)
