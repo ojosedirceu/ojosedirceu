@@ -17,7 +17,7 @@
 <h3> &nbsp; About me </h3>
 
 - 🧔🏾‍♂️ &nbsp; José Dirceu Hernandes Neto
-- 📅 &nbsp; 28 anos
+- 📅 &nbsp; 29 anos
 - 📧 &nbsp; jdirceuhn33@gmail.com
 - 📍 &nbsp; Presidente Prudente - SP
 - 🎓 &nbsp; Graduated in **Analysis and System Development** from <a href="https://www.fatecpp.edu.br">Faculdade de Tecnologia de Presidente Prudente (FATEC)</a>
