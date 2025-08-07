@@ -2,7 +2,7 @@
 <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg"/>
 
 <p align="center">
-  <a href="https:www.linkedin.com/in/ojoseneto" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/ojoseneto" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   
   <a href="https://wa.me/5518997350991?text=Ol%C3%A1,%20José!%20Tudo%20bem%20com%20você?" alt="WhatsApp">
