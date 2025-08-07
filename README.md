@@ -2,13 +2,13 @@
 <img src="https://e0.pxfuel.com/wallpapers/358/714/desktop-wallpaper-stefan-iordache-your-desired-developer-to-make-your-perfect-responsive-website-web-programming.jpg"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josé-dirceu-4a5b4736/" alt="Linkedin">
+  <a href="www.linkedin.com/in/ojoseneto" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   
   <a href="https://wa.me/5518997350991?text=Ol%C3%A1,%20José!%20Tudo%20bem%20com%20você?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 
-  <a href="https://www.instagram.com/ojosedirceu_" alt="Instagram">
+  <a href="https://www.instagram.com/ojoseneto__" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
